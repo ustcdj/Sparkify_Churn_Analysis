@@ -9,10 +9,10 @@
 ## 1. Background
 This project is to analyze data from Sparkify to build a model to predict customer churn. First, a sample dataset (128MB) was used on a local machine to explore relevant features and develop a working model. Then similar steps were used to develop a final working model for the full dataset(12GB) on the AWS cloud. I have learned:
 1. how to deploy a Spark cluster on the cloud using AWS
-2. how to manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn
+2. how to manipulate large and realistic datasets with Spark to engineer relevant features to predict churn
 3. how to use the machine learning APIs within Spark ML to build and tune models with large datasets
 
-Check my [blog post](https://) for more details.
+Please check my [blog post](https://) for more details.
 
 
 ## 2. Installation
