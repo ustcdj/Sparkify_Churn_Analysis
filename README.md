@@ -12,7 +12,7 @@ This project is to analyze data from Sparkify to build a model to predict custom
 2. how to manipulate large and realistic datasets with Spark to engineer relevant features to predict churn
 3. how to use the machine learning APIs within Spark ML to build and tune models with large datasets
 
-Please check my [blog post](https://) for more details.
+Please check my [blog post](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d) for more details.
 
 
 ## 2. Installation
