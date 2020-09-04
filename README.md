@@ -14,7 +14,7 @@ First, a sample dataset (128MB) was used on a local machine to explore relevant 
 2. how to manipulate large and realistic datasets with Spark to engineer relevant features to predict churn
 3. how to use the machine learning APIs within Spark ML to build and tune models with large datasets
 
-Please check my **[blog post]**(https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d) for more details.
+Please check my **[blog post](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d)** for more details.
 
 The detailed codes are at two notebooks below:
 - **[`Sparkify.ipynb`](https://github.com/ustcdj/Sparkify_Churn_Analysis/blob/master/Sparkify.ipynb)** (using sample dataset, run on local Windows PC)
